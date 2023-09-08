@@ -39,7 +39,7 @@ Responsibilities:
 ![](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongo )
 
   ## Deployed Link
-- [Netlify](https://64bcfd49624b410d0066d65e--profound-meringue-fad3c5.netlify.app/index.html) 
+- [Netlify](https://luminous-rugelach-53cdc9.netlify.app/) 
   
 - [Vercel](https://skillcraft-f8v0xegx6-bhavya022.vercel.app) 
 
